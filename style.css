@@ -1,0 +1,211 @@
+*{
+    margin: 0%;
+}
+
+.container{
+    width: 85%;
+    margin: auto;
+}
+.hero-section{
+    display: flex;
+    align-items: center;
+}
+.hero-left{
+    width: 50%;
+}
+.hero-left h1 {
+    font-size: 59px;
+    margin-bottom: 20px;
+    border-left: 4px solid #ff5959;
+    padding: 0px 0px 0px 10px;
+}
+.hero-left h1 span{
+    color: #ffad5a;
+}
+.hero-left p{}
+.hero-left a {
+    background: #ff5959;
+    display: inline-block;
+    padding: 11px 27px;
+    text-decoration: none;
+    border-radius: 7px;
+    margin-top: 15px;
+    margin-bottom: 13px;
+    color: white;
+    font-size: 11px;
+}
+.hero-left span{}
+.hero-right{
+    width: 50%;
+   text-align: right;
+}
+.hero-right img{
+    width: 70%;
+}
+/* hero section end */
+
+.title{
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+.title span{
+    color: #ffad5a;
+}
+.mission-section{
+    display: flex;
+    justify-content: space-between;
+
+}
+.mission{
+    background: #ffad5a;
+    width: 32%;
+    padding: 30px 25px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    
+}
+.color01{
+    background: #edf5f6;
+}
+.color02{
+    background: #ffeeee
+}
+.color03{
+    background: #fff4d6
+}
+.mission img{
+    height: 141px;
+}
+/* mession end */
+.develop-section{
+    display: flex;
+    align-items: center;
+    padding-top: 100px;
+}
+.develop-left{
+    width: 40%;
+}
+.develop-left img{
+    width: 90%;
+}
+.develop-right{
+width: 60%;
+padding-left: 50px;
+}
+.develop-right h1{
+    font-size: 36px;
+}
+.develop-right p{
+    font-size: 18px;
+    margin: 20px 0px;
+}
+.button {
+    background: #ff5959;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 20px;
+    color: wheat;
+    text-decoration: none;
+}
+/* develop-section-end */
+/* know section start */
+.know-section{
+    display: flex;
+    align-items: center;
+    padding-top: 100px;
+}
+.know-left{
+    width: 60%;
+    padding-right: 50px;
+}
+.know-left h1{
+    font-size: 36px;
+}
+
+.know-left p {
+        font-size: 18px;
+        margin: 20px 0px;
+}
+
+.know-left a {
+    background: #ff5959;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    border-radius: 7px;
+    margin-top: 20px;
+}
+.know-right{
+    width: 40%;
+    text-align: right;
+}
+.know-right img{
+ width: 90%;
+}
+/* know section end */
+/* Cororna section start*/
+.corona-title{
+    font-size: 48px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.corona-aplication-color{
+    color: #ffad5a;
+}
+.corona-section{
+    display: flex;
+    align-items: center;
+    margin-bottom: 100px;
+}
+.corona-left{
+    width: 50%;
+    text-align: left;
+}
+.corona-left img{
+    width: 60%;
+}
+.corona-right{
+    width: 50%;
+}
+.corona-right h1{
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+.corona-color{
+    color: #ffad5a;
+}
+.corona-right p{
+    font-size: 18px;
+}
+.corona-right a {
+    background: #ff5959;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+/* Cororna section End */
+/* end section start */
+.end-section-background-color{
+    background-color: #0b0d17;
+    padding: 50px 0px;
+    text-align: center;
+    color: #edf5f6;
+}
+footer h1{
+    font-size: 36px;
+}
+footer h1 span{
+    color: #ff5959;
+}
+footer p{
+    font-size: 14px;
+}
+
+/* end section end */
